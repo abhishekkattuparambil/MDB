@@ -13,7 +13,7 @@ MDB Member Trivia allows users to quickly learn the names of current MDB members
 
 The pokedex allows users to sort through hundreds of pokemon and filter them by types, name, or statistics. There's a mini-game in the search bar which will ask the user questions and if they respond correctly (by typing in the full name of the pokemon), it will prompt a new question. Advanced filtering can be done by lcicking the "advanced" button, and users can see details of pokemon by clicking on their names in the original view.
 
-| | | |
+| | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 | <img width="150" height = "322.668810289" alt="Loading Page" src="/Pokedex/images/load.png">| <img width="150" height = "322.668810289" alt="Home Page" src="/Pokedex/images/home.png">| <img width="150" height = "322.668810289" alt="Search Page" src="/Pokedex/images/search.png">| <img width="150" height = "322.668810289" alt="Details Page" src="/Pokedex/images/detail.png">|
 |Loading Page|Home Page|Search Page|Detail Page|
