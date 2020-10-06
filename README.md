@@ -18,4 +18,3 @@ The pokedex allows users to sort through hundreds of pokemon and filter them by 
 | <img width="150" height = "322.668810289" alt="Loading Page" src="/Pokedex/images/load.png">| <img width="150" height = "322.668810289" alt="Home Page" src="/Pokedex/images/home.png">| <img width="150" height = "322.668810289" alt="Search Page" src="/Pokedex/images/search.png">| <img width="150" height = "322.668810289" alt="Details Page" src="/Pokedex/images/detail.png">|
 |Loading Page|Home Page|Search Page|Detail Page|
 
-# Brought to you by Kanu's Canoes!
